@@ -1,4 +1,5 @@
                                             SFDX Project
 
 Create SFDX Project
+Authorize a Salesforce Org
     

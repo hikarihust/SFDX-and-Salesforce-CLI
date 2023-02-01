@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>newTreePlantation</members>
+        <members>pubsub</members>
+        <members>treeCard</members>
+        <members>treeList</members>
+        <members>treeLocation</members>
+        <members>treePlantationExplorer</members>
+        <name>LightningComponentBundle</name>
+    </types>
+    <version>55.0</version>
+</Package>

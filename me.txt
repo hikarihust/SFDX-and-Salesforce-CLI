@@ -19,11 +19,5 @@ Creating Apex Class
 Query Salesforce Data
 Insert, Update and Delete Salesforce Data
 Export Salesforce Data
-    sfdx force:data:tree:export --help
-
-
-Export Data
-=======================================
-
-Export TreePlantation application data
+Import Salesforce Data
     

@@ -1,0 +1,76 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Tree__c",
+                "referenceId": "Tree__cRef1"
+            },
+            "Name": "Neem Tree",
+            "Picture__c": "/resource/treeimages/neem.jpeg",
+            "Benefit__c": "Azadirachta indica, commonly known as neem, nimtree or Indian lilac, is a tree in the mahogany family Meliaceae. It is one of two species in the genus Azadirachta, and is native to the Indian subcontinent. It is typically grown in tropical and semi-tropical regions. Neem trees also grow on islands in southern Iran"
+        },
+        {
+            "attributes": {
+                "type": "Tree__c",
+                "referenceId": "Tree__cRef2"
+            },
+            "Name": "Peepal Tree",
+            "Picture__c": "/resource/treeimages/peepal.jpg",
+            "Benefit__c": "Ficus religiosa or sacred fig is a species of fig native to the Indian subcontinent and Indochina that belongs to Moraceae, the fig or mulberry family. It is also known as the bodhi tree, pippala tree, peepul tree, peepal tree, pipal tree, or ashvattha tree"
+        },
+        {
+            "attributes": {
+                "type": "Tree__c",
+                "referenceId": "Tree__cRef3"
+            },
+            "Name": "Aloe vera",
+            "Picture__c": "/resource/treeimages/aloe-vera.jpg",
+            "Benefit__c": "Aloe vera is a succulent plant species of the genus Aloe. It is widely distributed, and is considered an invasive species in many world regions. An evergreen perennial, it originates from the Arabian Peninsula, but grows wild in tropical, semi-tropical, and arid climates around the world"
+        },
+        {
+            "attributes": {
+                "type": "Tree__c",
+                "referenceId": "Tree__cRef4"
+            },
+            "Name": "Banyan Tree",
+            "Picture__c": "/resource/treeimages/banyan.jpg",
+            "Benefit__c": "Banyan Tree Holdings Limited is a Singaporean multinational hospitality brand that manages and develops resorts, hotels and spas in Asia, America, Africa and the Middle East. The brand was established in 1994. As of 2021, the company operates 55 resorts and hotels"
+        },
+        {
+            "attributes": {
+                "type": "Tree__c",
+                "referenceId": "Tree__cRef5"
+            },
+            "Name": "Teak Tree",
+            "Picture__c": "/resource/treeimages/teak.jpg",
+            "Benefit__c": "Teak is a tropical hardwood tree species in the family Lamiaceae. It is a large, deciduous tree that occurs in mixed hardwood forests. Tectona grandis has small, fragrant white flowers arranged in dense clusters at the end of the branches. These flowers contain both types of reproductive organs"
+        },
+        {
+            "attributes": {
+                "type": "Tree__c",
+                "referenceId": "Tree__cRef6"
+            },
+            "Name": "Eucalyptus Tree",
+            "Picture__c": "/resource/treeimages/eucalyptus.png",
+            "Benefit__c": "Eucalyptus globulus, commonly known as southern blue gum or blue gum, is a species of tall, evergreen tree endemic to southeastern Australia"
+        },
+        {
+            "attributes": {
+                "type": "Tree__c",
+                "referenceId": "Tree__cRef7"
+            },
+            "Name": "Maple Tree",
+            "Picture__c": "/resource/treeimages/maple.jpg",
+            "Benefit__c": "Acer is a genus of trees and shrubs commonly known as maples. The genus is placed in the family Sapindaceae. There are approximately 132 species, most of which are native to Asia, with a number also appearing in Europe, northern Africa, and North America"
+        },
+        {
+            "attributes": {
+                "type": "Tree__c",
+                "referenceId": "Tree__cRef8"
+            },
+            "Name": "Indian Rosewood",
+            "Picture__c": "/resource/treeimages/indian-rosewood.jpeg",
+            "Benefit__c": "Dalbergia sissoo, known commonly as North Indian rosewood or shisham, is a fast-growing, hardy, deciduous rosewood tree native to the Indian subcontinent and southern Iran. D. sissoo is a large, crooked tree with long, leathery leaves and whitish or pink flowers"
+        }
+    ]
+}

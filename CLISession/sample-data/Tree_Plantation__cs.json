@@ -1,0 +1,14 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Tree_Plantation__c",
+                "referenceId": "Tree_Plantation__cRef1"
+            },
+            "Number_Of_Tree_Planted__c": 3000,
+            "Age__c": 3,
+            "Tree__c": "@Tree__cRef7",
+            "Planted_In__c": "@City__cRef3"
+        }
+    ]
+}

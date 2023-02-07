@@ -25,4 +25,5 @@ Import Salesforce Data
 
 Create Scratch Org
 Push Metadata in Scratch Org from GitHub Repository(local source)
+Push Metadata in Scratch Org from GitHub Repository
     

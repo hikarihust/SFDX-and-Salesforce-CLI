@@ -27,4 +27,5 @@ Create Scratch Org
 Push Metadata in Scratch Org from GitHub Repository(local source)
 Push Metadata in Scratch Org from GitHub Repository
 Upload Data in Scratch Org
+Complete Application in Scratch Org
     

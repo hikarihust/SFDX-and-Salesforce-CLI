@@ -37,3 +37,7 @@ Develop Application 1
 Develop Application 2
 Merge Dev Branch
     
+        ================================ Automation with Salesforce CLI ================================
+
+Generate SSL Certificate
+    

@@ -18,3 +18,26 @@ printf "STEP 4: Cloning github repo\n"
 git clone https://github.com/vudinhquang/tree-plantation.git
 cd tree-plantation
     
+# authorize dev hub org
+printf "STEP 5: Authorizing Dev Hub Org\n"
+sfdx force:auth:jwt:grant --clientid $COSUMER_KEY --jwtkeyfile  "$SERVER_KEY_LOCATION" --username $DEV_HUB_USER_NAME --setdefaultdevhubusername --setalias CLISessionDevHub
+
+# creating scratch org
+printf "STEP 6: Creating scratch org\n"
+sfdx force:org:create  --setdefaultusername --definitionfile config/project-scratch-def.json --setalias $(date +'%Y%m%d') --wait 10 --durationdays 30
+
+# pushing metadata to scracth org
+printf "STEP 7: Pushing metadata to scratch org"
+sfdx force:source:push
+
+# assign permission set
+printf "STEP 8: Assigning permission set"
+sfdx force:user:permset:assign -n TreePlantation
+
+# upload sample data to scratch org
+printf "STEP 9: Uploading sample data"
+sfdx force:data:tree:import --plan sample-data/import-plan.json
+
+# opening scratch org
+printf "STEP 10: Opening scratch org"
+sfdx force:org:open

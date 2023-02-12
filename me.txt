@@ -42,4 +42,5 @@ Merge Dev Branch
 Generate SSL Certificate
 Create Connected App
 CLI Automation - 1
+CLI Automation - 2
 	

@@ -40,4 +40,5 @@ Merge Dev Branch
         ================================ Automation with Salesforce CLI ================================
 
 Generate SSL Certificate
+Create Connected App
     
